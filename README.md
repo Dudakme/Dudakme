@@ -41,6 +41,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 
+## Github stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dudakme)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
